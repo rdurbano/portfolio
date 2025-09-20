@@ -1,0 +1,7 @@
+- name: Nome do Projeto 1
+  description: Descrição customizada para o portfólio.
+  url: https://github.com/rdurbano/nome-do-projeto-1
+
+- name: Nome do Projeto 2
+  description: Outra descrição bem legal para este outro projeto.
+  url: https://github.com/rdurbano/nome-do-projeto-2
