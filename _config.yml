@@ -1,3 +1,6 @@
 title: Meu Site
 description: Meu site incrível no GitHub Pages
 theme: jekyll-theme-minimal
+
+collections:
+  - projects
